@@ -9,4 +9,7 @@ Batch Scripts to automate certain tasks on your windows machine.
     <li> Clear <i>Temp</i> Folder</li>
     <li> Clear <i>%Temp%</i> Folder</li>
     <li> Clear <i>Prefetch</i> Folder</li>
+    <li> Enable Proxy</li>
+    <li> Disable Proxy</li>
+
 </ul>
